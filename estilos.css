@@ -1,0 +1,54 @@
+
+body {
+    background-color: #b8b8f4;
+    color: #060622;
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+h1, h2 {
+    color: #011228;
+    font-family: 'Segoe UI', sans-serif;
+}
+img {
+    display: block;
+    max-width: 300px;
+   
+}
+
+.destaque {
+    background-color: #ffe44d;
+    color: black;
+    padding: 10px;
+    margin: 20px 0;
+    font-weight: bold;
+}
+
+
+ul div {
+    background-color: #f78d8d;
+    padding: 8px;
+    margin-bottom: 4px;
+	width:550px;
+}
+
+
+a {
+    color: #00e5ff;
+}
+
+/*
+
+1. Desafio Técnico:
+A regra mais difícil foi muitas vezes entender o que era pedido, acabei por separar o projeto em diversas partes de forma que fosse mais fácil de trabalhar, comecei por escrever todos os "códigos" que ia usar e entender para o que servem para depois se me for questionado não ter tantas dificuldades
+
+
+2. Correção de Sintaxe:
+O erro mais comum foi lembrar me de guardar as alterações e depois quando queria ter a certeza de que estava tudo correto e a funcionar percebia que não tinha guardado as alterações e consequentemente o site não estava atualizado  
+
+
+3. Autoria:
+O src (source) é um atributo usado para ir buscar um ficheiro externo para o mostrar na página. Por exemplo em imagens,videos, etc
+
+*/
+	
