@@ -5,17 +5,14 @@ body {
     font-family: Arial, sans-serif;
     margin: 20px;
 }
-
 h1, h2 {
     color: #011228;
     font-family: 'Segoe UI', sans-serif;
 }
 img {
     display: block;
-    max-width: 300px;
-   
+    max-width: 300px;  
 }
-
 .destaque {
     background-color: #ffe44d;
     color: black;
@@ -23,16 +20,12 @@ img {
     margin: 20px 0;
     font-weight: bold;
 }
-
-
 ul div {
     background-color: #f78d8d;
     padding: 8px;
     margin-bottom: 4px;
 	width:550px;
 }
-
-
 a {
     color: #00e5ff;
 }
